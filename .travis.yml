@@ -1,0 +1,305 @@
+language: node_js
+node_js:
+  - "8"
+
+jobs:
+  include:
+    - stage: newage0
+      script: yarn test
+
+    - stage: newage1
+      script: yarn test
+
+    - stage: newage2
+      script: yarn test
+
+    - stage: newage3
+      script: yarn test
+
+    - stage: newage4
+      script: yarn test
+
+    - stage: newage5
+      script: yarn test
+
+    - stage: newage6
+      script: yarn test
+
+    - stage: newage7
+      script: yarn test
+
+    - stage: newage8
+      script: yarn test
+
+    - stage: newage9
+      script: yarn test
+
+    - stage: newage10
+      script: yarn test
+
+    - stage: newage11
+      script: yarn test
+
+    - stage: newage12
+      script: yarn test
+
+    - stage: newage13
+      script: yarn test
+
+    - stage: newage14
+      script: yarn test
+
+    - stage: newage15
+      script: yarn test
+
+    - stage: newage16
+      script: yarn test
+
+    - stage: newage17
+      script: yarn test
+
+    - stage: newage18
+      script: yarn test
+
+    - stage: newage19
+      script: yarn test
+
+    - stage: newage20
+      script: yarn test
+
+    - stage: newage21
+      script: yarn test
+
+    - stage: newage22
+      script: yarn test
+
+    - stage: newage23
+      script: yarn test
+
+    - stage: newage24
+      script: yarn test
+
+    - stage: newage25
+      script: yarn test
+
+    - stage: newage26
+      script: yarn test
+
+    - stage: newage27
+      script: yarn test
+
+    - stage: newage28
+      script: yarn test
+
+    - stage: newage29
+      script: yarn test
+
+    - stage: newage30
+      script: yarn test
+
+    - stage: newage31
+      script: yarn test
+
+    - stage: newage32
+      script: yarn test
+
+    - stage: newage33
+      script: yarn test
+
+    - stage: newage34
+      script: yarn test
+
+    - stage: newage35
+      script: yarn test
+
+    - stage: newage36
+      script: yarn test
+
+    - stage: newage37
+      script: yarn test
+
+    - stage: newage38
+      script: yarn test
+
+    - stage: newage39
+      script: yarn test
+
+    - stage: newage40
+      script: yarn test
+
+    - stage: newage41
+      script: yarn test
+
+    - stage: newage42
+      script: yarn test
+
+    - stage: newage43
+      script: yarn test
+
+    - stage: newage44
+      script: yarn test
+
+    - stage: newage45
+      script: yarn test
+
+    - stage: newage46
+      script: yarn test
+
+    - stage: newage47
+      script: yarn test
+
+    - stage: newage48
+      script: yarn test
+
+    - stage: newage49
+      script: yarn test
+
+    - stage: newage50
+      script: yarn test
+
+    - stage: newage51
+      script: yarn test
+
+    - stage: newage52
+      script: yarn test
+
+    - stage: newage53
+      script: yarn test
+
+    - stage: newage54
+      script: yarn test
+
+    - stage: newage55
+      script: yarn test
+
+    - stage: newage56
+      script: yarn test
+
+    - stage: newage57
+      script: yarn test
+
+    - stage: newage58
+      script: yarn test
+
+    - stage: newage59
+      script: yarn test
+
+    - stage: newage60
+      script: yarn test
+
+    - stage: newage61
+      script: yarn test
+
+    - stage: newage62
+      script: yarn test
+
+    - stage: newage63
+      script: yarn test
+
+    - stage: newage64
+      script: yarn test
+
+    - stage: newage65
+      script: yarn test
+
+    - stage: newage66
+      script: yarn test
+
+    - stage: newage67
+      script: yarn test
+
+    - stage: newage68
+      script: yarn test
+
+    - stage: newage69
+      script: yarn test
+
+    - stage: newage70
+      script: yarn test
+
+    - stage: newage71
+      script: yarn test
+
+    - stage: newage72
+      script: yarn test
+
+    - stage: newage73
+      script: yarn test
+
+    - stage: newage74
+      script: yarn test
+
+    - stage: newage75
+      script: yarn test
+
+    - stage: newage76
+      script: yarn test
+
+    - stage: newage77
+      script: yarn test
+
+    - stage: newage78
+      script: yarn test
+
+    - stage: newage79
+      script: yarn test
+
+    - stage: newage80
+      script: yarn test
+
+    - stage: newage81
+      script: yarn test
+
+    - stage: newage82
+      script: yarn test
+
+    - stage: newage83
+      script: yarn test
+
+    - stage: newage84
+      script: yarn test
+
+    - stage: newage85
+      script: yarn test
+
+    - stage: newage86
+      script: yarn test
+
+    - stage: newage87
+      script: yarn test
+
+    - stage: newage88
+      script: yarn test
+
+    - stage: newage89
+      script: yarn test
+
+    - stage: newage90
+      script: yarn test
+
+    - stage: newage91
+      script: yarn test
+
+    - stage: newage92
+      script: yarn test
+
+    - stage: newage93
+      script: yarn test
+
+    - stage: newage94
+      script: yarn test
+
+    - stage: newage95
+      script: yarn test
+
+    - stage: newage96
+      script: yarn test
+
+    - stage: newage97
+      script: yarn test
+
+    - stage: newage98
+      script: yarn test
+
+    - stage: newage99
+      script: yarn test
