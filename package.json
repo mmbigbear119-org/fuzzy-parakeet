@@ -4,7 +4,7 @@
   "description": "improved-computing-machine",
   "main": "index.js",
   "scripts": {
-    "test": "run index.js"
+    "test": "node index.js"
   },
   "repository": {
     "type": "git",
